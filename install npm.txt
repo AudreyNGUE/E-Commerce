@@ -1,0 +1,13 @@
+npm install bootstrap
+# Initialisation du projet
+npm init
+# Installation du paquet
+npm install paquet
+
+npx create-react-app mon-app
+cd mon-app
+npm start
+
+
+bootstrap
+fontawsome : librerie d'icones
